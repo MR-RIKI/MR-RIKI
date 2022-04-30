@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MR-RIKI</h1>
+<h1 align="center">Hi 👋, It's MR-RIKI</h1>
 
 ![1651321011396_2](https://user-images.githubusercontent.com/104522915/166105231-b09b8fa0-9f6a-4aff-b534-519d6d0b0285.jpg)
 
