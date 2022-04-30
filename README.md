@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm MR-RIKI</h1>
 
 
-<h3 align="center">App developer and frontend developer from Bangladesh🇧🇩</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-riki&label=Profile%20views&color=0e75b6&style=flat" alt="mr-riki" /> </p>
-
-- I’m currently working on [Pixellab](https://github.com/thinkpixellab)
-
-- 🌱 I’m currently learning **Frameworks,Meatchine Learning**
-
-- 💬 Ask me about **Python,Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
