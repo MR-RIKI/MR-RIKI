@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's MR-RIKI</h1>
+
 
 ![](https://komarev.com/ghpvc/?username=MR-RIKI&color=blueviolet)
 
